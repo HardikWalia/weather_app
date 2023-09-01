@@ -1,1 +1,1 @@
-# weather_app
+Using HTML, I structured the content of the application, ensuring proper organisation and semantic markup. With CSS, I applied styling and layout techniques to create an appealing and visually consistent design. With Javascript, I gave all the location access and used Api to fetch all weather details
